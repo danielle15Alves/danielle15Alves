@@ -2,9 +2,8 @@
 
 Segue algumas observações sobre mim:
 
-- 🌱 Pretendo iniciar minha carreira de BI em breve;
-- 🌱 Estudando sobre BI: PBI, SQL, SSIS, MySql, ETL, PHP;
-- 📫 você pode entrar em contato comigo através do meu e-mail: danielle.alves15@hotmail.com.
+- 🌱 Iniciando carreira em Business Intelligence;
+- 🌱 PBI, SQL, MySql, ETL, PHP;
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">

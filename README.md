@@ -8,7 +8,7 @@
   </div>
   
   
-![Danielle GitHub stats](https://github-readme-stats.vercel.app/api?username=danielle15alves&show_icons=true&theme=dracula&count_private=true)
+![Danielle GitHub stats](https://github-readme-stats.vercel.app/api?username=danielle15Alves&show_icons=true&theme=dracula&count_private=true)
   
   
   ##

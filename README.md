@@ -1,4 +1,4 @@
-###  Olá, eu sou a Danielle Alves!
+###  Olá, me chamo Danielle!
 
 Segue algumas observações sobre mim:
 

@@ -3,7 +3,7 @@
 Segue algumas observações sobre mim:
 
 - 🌱 Iniciando carreira em Business Intelligence;
-- 🌱 PBI, SQL, MySql, ETL, PHP.
+- 🌱 DAX, SQL, MySql, ETL, PHP.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">

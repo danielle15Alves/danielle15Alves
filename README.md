@@ -3,7 +3,7 @@
 Segue algumas observações sobre mim:
 
 - 🌱 Iniciando carreira em Business Intelligence;
-- 🌱 PBI, SQL, MySql, ETL, PHP;
+- 🌱 PBI, SQL, MySql, ETL, PHP.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
@@ -14,8 +14,6 @@ Segue algumas observações sobre mim:
  ##
  <div>
   
-  <a href="danielle.alves15@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
-  <a href = "danielle.b.alves15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/danielle-alves-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   </div>

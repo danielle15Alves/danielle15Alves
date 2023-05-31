@@ -8,10 +8,6 @@
   
   <a href="https://www.linkedin.com/in/danielle-alves-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  </div>
-  
-  
-![Danielle GitHub stats](https://github-readme-stats.vercel.app/api?username=danielle15Alves&show_icons=true&theme=dracula&count_private=true)
   
   
   ##
